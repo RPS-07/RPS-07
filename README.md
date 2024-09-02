@@ -1,4 +1,8 @@
 ## About Me 📖
+
+<img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width=30%>
+
+<br><br>
 - :school: I am a Final Year Computer Science Student from [Thapar university](https://www.thapar.edu/).
 - :trophy: Finalists at Hack-Ndore Hackathon, held at Indore, Madhya Pradesh.
 - :computer: I am a competitive programmer at `Codeforces`, `Leetcode`, `Codechef`.
@@ -6,6 +10,9 @@
 - 💸 Finance enthusiast with a minor in Derivatives Market, blending technology skills with financial knowledge.
 - 🤓 Always learning new things
 - :thinking: I’m currently open for a new `job opportunity`, [My Resume](https://drive.google.com/file/d/1vL-V-GcMRo7RFb43k4s2ValGBSI19Icw/view?usp=sharing).
+<br>
+
+
 ## 🌐 Socials:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/raman-preet-singh-039797223) 
