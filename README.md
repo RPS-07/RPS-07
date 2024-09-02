@@ -9,7 +9,12 @@
 - :thinking: I’m currently open for a new `job opportunity`, [My Resume](https://drive.google.com/file/d/1vL-V-GcMRo7RFb43k4s2ValGBSI19Icw/view?usp=sharing).
 <br>
 ## 🌐 Socials:
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/raman-preet-singh-039797223) 
+[![X](https://img.shields.io/badge/_-black.svg?logo=X&logoColor=white)](https://x.com/https://x.com/RAMAN_202) 
+
+
+
 
 
 # 💻 Tech Stack:
