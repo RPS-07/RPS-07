@@ -9,7 +9,7 @@
 ## 🌐 Socials:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/raman-preet-singh-039797223) 
-[![X](https://img.shields.io/badge/_-black.svg?logo=X&logoColor=white)](https://x.com/https://x.com/RAMAN_202) 
+[![X](https://img.shields.io/badge/_-black.svg?logo=X&logoColor=white)](https://x.com/RAMAN_202) 
 
 
 
