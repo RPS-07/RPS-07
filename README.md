@@ -9,9 +9,8 @@
 - ✍🏻 I love using Software as a solution for every Problem
 - 💸 Finance enthusiast with a minor in Derivatives Market, blending technology skills with financial knowledge.
 - 🤓 Always learning new things
-- :thinking: I’m currently open for a new `job opportunity`, [My Resume](https://drive.google.com/file/d/1UFayNt62R6oKcOPBtWWYsvNXK5cSUH9o/view?usp=sharing).
+- :thinking: I’m currently open for a new `job opportunity`, [My Resume](https://docs.google.com/document/d/1caI3A2r81hX07hXFvaX0uNSLYj6ZEoTj/edit?usp=sharing&ouid=102882778256417571530&rtpof=true&sd=true).
 <br>
-
 
 ## 🌐 Socials:
 
