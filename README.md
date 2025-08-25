@@ -3,13 +3,19 @@
 <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width=30%>
 
 <br><br>
-- :school: I am a Final Year Computer Science Student from [Thapar university](https://www.thapar.edu/).
-- :trophy: Finalists at Hack-Ndore Hackathon, held at Indore, Madhya Pradesh.
-- :computer: I am a competitive programmer at `Codeforces`, `Leetcode`, `Codechef`.
-- ✍🏻 I love using Software as a solution for every Problem
-- 💸 Finance enthusiast with a minor in Derivatives Market, blending technology skills with financial knowledge.
-- 🤓 Always learning new things
-- :thinking: I’m currently open for a new `job opportunity`, [My Resume](https://docs.google.com/document/d/1caI3A2r81hX07hXFvaX0uNSLYj6ZEoTj/edit?usp=sharing&ouid=102882778256417571530&rtpof=true&sd=true).
+- 🎓 **Computer Science Graduate** [Thapar University](https://www.thapar.edu/)  
+- 🛠️ **Jr. Web Developer Intern** @ *Techlive Solutions, Mohali*  
+  - Built a full-stack **Tourism Management System** (PHP & MySQL) with secure admin dashboard and real-time booking.  
+- 📊 **Quantitative Finance Projects**  
+  - **Risk Analysis Using Monte Carlo Simulation** – Modeled Tesla (TSLA) stock with Python (10,000+ paths) to compute VaR & CVaR.  
+  - **NIFTY Short Strangle Backtest** – Engineered intraday strategy on **2 months of minute-by-minute option data (900,000+ rows)**, with PnL analytics, Sharpe/Sortino/Drawdown metrics.  
+- 🏆 **Finalist** – Hack-Ndore Hackathon, Indore (Madhya Pradesh)  
+- 💻 Competitive Programmer on `Codeforces`, `Leetcode`, `Codechef`  
+- 💸 Finance enthusiast with exposure to **derivatives, risk modeling, and systematic trading strategies**  
+- ✍🏻 Passionate about solving problems using **software + data**  
+- 🤓 Always learning & exploring new tech in **quant finance + development**  
+- 💼 Open to new opportunities → [📄 My Resume](https://drive.google.com/file/d/1nOiDp0bG95K923ydg1G7-NbqJWX-3ORz/view?usp=sharing)  
+
 <br>
 
 ## 🌐 Socials:
